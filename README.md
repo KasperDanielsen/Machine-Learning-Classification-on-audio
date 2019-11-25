@@ -1,5 +1,5 @@
 # Machine Learning Classification on audio
-Exploration of Machine Learning using the Free Spoken Digit Dataset (FSDD)
+Exploration of Machine Learning using the Free Spoken Digit Dataset (FSDD) by Zohar Jackson
 
 This repository shows how dataanalysis and training is done on the Free Spoken Digit Dataset (FSDD)
 https://github.com/Jakobovski/free-spoken-digit-dataset
